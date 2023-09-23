@@ -30,7 +30,7 @@ Basitçe Dosyaya Tıklayın Ve İstediğiniz Butonu Kullanın
 👤 **serhanyamand**
 
 * Youtube: https://www.youtube.com/channel/UCYfguXG4mfgfmLhACJkVPlA
-* Website: https://beastprofile.tr.ht
+* Website: http://serhanyamand.tr.ht
 * Github: [@serhanyamand](https://github.com/serhanyamand)
 
 
